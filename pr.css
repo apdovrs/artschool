@@ -1,0 +1,9 @@
+.bt{border: 3px solid black; border-radius: 10px; text-decoration: none; font-family: georgia; color:black; font-size: 25px;}
+p{text-align: center;}
+h1{color:rgb(209, 192, 171); font-family: georgia; text-align: center;}
+body{background-color: DimGray;}
+.tbl{border-collapse: collapse; border-color: black; border: 2px solid; text-align: center; background-color: white; font-family: georgia; font-size:20px; color:black}
+.trr,.tdd{ border: 2px solid; border-color: black; width:10%;}
+.clr{ background-color: rgb(171, 148, 148); border: 2px solid; border-color: black; width:10%}
+.dnc{text-decoration: none; font-family: georgia; color:black; font-size: 20px;}
+table{font-family: georgia; font-size:25px; text-align: center; color:rgb(209, 192, 171)}
